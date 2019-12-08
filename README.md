@@ -1,2 +1,0 @@
-# LoginWithGoogle
-Created with CodeSandbox
